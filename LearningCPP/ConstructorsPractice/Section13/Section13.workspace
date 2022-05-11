@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section13" Database="" Version="10000">
+  <Project Name="DeclareClassandObjects" Path="DeclareClassandObjects/DeclareClassandObjects.project" Active="No"/>
+  <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="No"/>
+  <Project Name="ClassesHeaderFiles" Path="ClassesHeaderFiles/ClassesHeaderFiles.project" Active="No"/>
+  <Project Name="Constructors1" Path="Constructors1/Constructors1.project" Active="No"/>
+  <Project Name="Constructors2" Path="Constructors2/Constructors2.project" Active="No"/>
+  <Project Name="Constructors3" Path="Constructors3/Constructors3.project" Active="No"/>
+  <Project Name="Constructors4" Path="Constructors4/Constructors4.project" Active="No"/>
+  <Project Name="Constructors5" Path="Constructors5/Constructors5.project" Active="No"/>
+  <Project Name="Constructors6" Path="Constructors6/Constructors6.project" Active="No"/>
+  <Project Name="Constructors7" Path="Constructors7/Constructors7.project" Active="No"/>
+  <Project Name="Constructors8" Path="Constructors8/Constructors8.project" Active="No"/>
+  <Project Name="ConstClasses" Path="ConstClasses/ConstClasses.project" Active="No"/>
+  <Project Name="StaticClasses" Path="StaticClasses/StaticClasses.project" Active="No"/>
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClassandObjects" ConfigName="Debug"/>
+      <Project Name="AccessingClassMembers" ConfigName="Debug"/>
+      <Project Name="ClassesHeaderFiles" ConfigName="Debug"/>
+      <Project Name="Constructors1" ConfigName="Debug"/>
+      <Project Name="Constructors2" ConfigName="Debug"/>
+      <Project Name="Constructors3" ConfigName="Debug"/>
+      <Project Name="Constructors4" ConfigName="Debug"/>
+      <Project Name="Constructors5" ConfigName="Debug"/>
+      <Project Name="Constructors6" ConfigName="Debug"/>
+      <Project Name="Constructors7" ConfigName="Debug"/>
+      <Project Name="Constructors8" ConfigName="Debug"/>
+      <Project Name="ConstClasses" ConfigName="Debug"/>
+      <Project Name="StaticClasses" ConfigName="Debug"/>
+      <Project Name="SectionChallenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClassandObjects" ConfigName="Release"/>
+      <Project Name="AccessingClassMembers" ConfigName="Release"/>
+      <Project Name="ClassesHeaderFiles" ConfigName="Release"/>
+      <Project Name="Constructors1" ConfigName="Release"/>
+      <Project Name="Constructors2" ConfigName="Release"/>
+      <Project Name="Constructors3" ConfigName="Release"/>
+      <Project Name="Constructors4" ConfigName="Release"/>
+      <Project Name="Constructors5" ConfigName="Release"/>
+      <Project Name="Constructors6" ConfigName="Release"/>
+      <Project Name="Constructors7" ConfigName="Release"/>
+      <Project Name="Constructors8" ConfigName="Release"/>
+      <Project Name="ConstClasses" ConfigName="Release"/>
+      <Project Name="StaticClasses" ConfigName="Release"/>
+      <Project Name="SectionChallenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
